@@ -120,7 +120,7 @@ uv run pylint $GIT_ROOT/src/
 
 A `.pylintc` file can be added to each Python project to disable various warnings. An example is:
 
-```toml
+```
 [MAIN]
 
 ignore=.venv,test
