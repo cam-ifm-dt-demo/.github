@@ -141,5 +141,9 @@ disable=too-many-arguments,
 
 The following extensions are reccomended:
 
-- [GitHub Markdown Preview](http://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) (extension pack)
-- [Markdown Preview for Github Alerts](https://marketplace.visualstudio.com/items?itemName=yahyabatulu.vscode-markdown-alert)
+- GitHub
+  - [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+  - [GitHub Markdown Preview](http://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) (extension pack)
+  - [Markdown Preview for Github Alerts](https://marketplace.visualstudio.com/items?itemName=yahyabatulu.vscode-markdown-alert)
+  - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-github)
+  - [Git Graph](http://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
