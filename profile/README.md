@@ -6,4 +6,5 @@
   - Yin-Chi Chan
 
 **Quick links:**
-  - [Documentation]()
+  - [Organisation page](https://github.com/cam-ifm-dt-demo)
+  - [Documentation](https://cam-ifm-dt-demo.github.io/docs/)
