@@ -8,5 +8,5 @@
 GIT_ROOT=$(git rev-parse --show-toplevel)
 
 uv add --dev isort pylint autopep8
-uv run isort $GIT_ROOT/src/
+uv run isort $GIT_ROOT/src/ -l 100 --project cam_ifm_dt_demo
 uv run pylint $GIT_ROOT/src/
