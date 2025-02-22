@@ -45,6 +45,8 @@ Execute the script using `chmod +x clone-all.sh && ./clone-all.sh`.
 Save the following script as `create-workspace.py`:
 
 ```py
+#! /usr/bin/env python3
+
 import os
 import sys
 
